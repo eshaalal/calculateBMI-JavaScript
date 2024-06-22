@@ -21,11 +21,3 @@ A simple web-based Body Mass Index (BMI) Calculator that allows users to input t
 4. View your BMI result and see the corresponding weight category highlighted.
 
 
-
-
-5. **Push the code to GitHub**:
-    ```bash
-    git push -u origin master
-    ```
-
-Now your project is added to GitHub and you can share it with others!
